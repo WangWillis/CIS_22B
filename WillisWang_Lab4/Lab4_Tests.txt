@@ -1,0 +1,939 @@
+Test 1
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+Willis
+Who do you want to send this message to?
+Steven
+What is the Subject of this message?
+Hi
+Please write your message. (Press enter when done)
+Hi steven how are you doing
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+joe
+Who do you want to send this message to?
+joey
+What is the Subject of this message?
+bye
+Please write your message. (Press enter when done)
+bye
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: Hi
+2. Subject: bye
+Which entry would you like to select?
+2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+From: joe
+To: joey
+Subject: bye
+Body:
+
+bye
+
+What do you want to add to the end of this message? (Press enter when done)
+hi again
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+6
+Exiting
+
+Test 2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+asdf
+Who do you want to send this message to?
+jeiefsoeof
+What is the Subject of this message?
+sdfhowef
+Please write your message. (Press enter when done)
+asdfoojefkasndvoi
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+sojfkldv
+Who do you want to send this message to?
+sdfjowejfoiwej
+What is the Subject of this message?
+skfnciesf
+Please write your message. (Press enter when done)
+sidfjoepjvegojfposjfipojawpodjawd
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: sdfhowef
+2. Subject: skfnciesf
+Which entry would you like to select?
+2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+From: sojfkldv
+To: sdfjowejfoiwej
+Subject: skfnciesf
+Body:
+
+sidfjoepjvegojfposjfipojawpodjawd
+
+What do you want to add to the end of this message? (Press enter
+sklflkefljsldjfisejf
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+From: sojfkldv
+To: sdfjowejfoiwej
+Subject: skfnciesf
+Body:
+
+sidfjoepjvegojfposjfipojawpodjawd sklflkefljsldjfisejf
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+From: sojfkldv
+To: sdfjowejfoiwej
+Subject: skfnciesf
+Body:
+
+sidfjoepjvegojfposjfipojawpodjawd sklflkefljsldjfisejf
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+qweqwe
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: sdfhowef
+2. Subject: skfnciesf
+Which entry would you like to remove?
+2
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: sdfhowef
+Which entry would you like to select?
+1
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: sdfhowef
+Which entry would you like to select?
+2
+Invalid input please re-enter
+1. Subject: sdfhowef
+Which entry would you like to select?
+1
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: sdfhowef
+Which entry would you like to remove?
+3
+Invalid input please re-enter
+1. Subject: sdfhowef
+Which entry would you like to remove?
+1
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+No Messages!
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+NO ENTRIES!!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+Entry has not been selected.
+Please select an entry using option 2.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+Entry has not been selected.
+Please select an entry using option 2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+6
+Exiting
+
+Test 3
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+ouioreurio
+Who do you want to send this message to?
+oosddjos
+What is the Subject of this message?
+sodcjopefse
+Please write your message. (Press enter when done)
+poqwiiepoiqwe
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: sodcjopefse
+Which entry would you like to remove?
+1
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+aodjipowjdipo
+Who do you want to send this message to?
+dovjseipofjes
+What is the Subject of this message?
+xpovjsipoj
+Please write your message. (Press enter when done)
+pospoefipoidpovc
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: xpovjsipoj
+Which entry would you like to select?
+1
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+From: aodjipowjdipo
+To: dovjseipofjes
+Subject: xpovjsipoj
+Body:
+
+pospoefipoidpovc
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+From: aodjipowjdipo
+To: dovjseipofjes
+Subject: xpovjsipoj
+Body:
+
+pospoefipoidpovc
+
+What do you want to add to the end of this message? (Press
+sdfjieofjiodvjsd
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+From: aodjipowjdipo
+To: dovjseipofjes
+Subject: xpovjsipoj
+Body:
+
+pospoefipoidpovc sdfjieofjiodvjsd
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+osjdiojsioefj
+Who do you want to send this message to?
+osefjiosefj
+What is the Subject of this message?
+seiofhseoifj
+Please write your message. (Press enter when done)
+ovupoioeiajpow
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: xpovjsipoj
+2. Subject: seiofhseoifj
+Which entry would you like to select?
+2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: xpovjsipoj
+2. Subject: seiofhseoifj
+Which entry would you like to remove?
+2
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: xpovjsipoj
+Which entry would you like to remove?
+1
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+No Messages!
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+NO ENTRIES!!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+Entry has not been selected.
+Please select an entry using option 2.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+Entry has not been selected.
+Please select an entry using option 2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+6
+Exiting
+
+Test 4
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+234
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+qwe
+Who do you want to send this message to?
+qwe
+What is the Subject of this message?
+qwe
+Please write your message. (Press enter when done)
+qwe
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+qwe
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: qwe
+Which entry would you like to select?
+qwe
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+qwe
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+1
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+123
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: qwe
+Which entry would you like to remove?
+1
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+No Messages!
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+qwe
+Who do you want to send this message to?
+q
+What is the Subject of this message?
+we
+Please write your message. (Press enter when done)
+qwe
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+qwe
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+Invalid input please re-enter
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: we
+Which entry would you like to remove?
+1
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+6
+Exiting
+
+Test 5
+
+xe
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+No Messages!
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+Entry has not been selected.
+Please select an entry using option 2.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+NO ENTRIES!!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+Entry has not been selected.
+Please select an entry using option 2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+Entry has not been selected.
+Please select an entry using option 2.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+No Messages!
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+qwe
+Who do you want to send this message to?
+qwe
+What is the Subject of this message?
+qwwe
+Please write your message. (Press enter when done)
+qwe
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+Entry has not been selected.
+Please select an entry using option 2.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+Entry has not been selected.
+Please select an entry using option 2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+1
+What is your name?
+qwe
+Who do you want to send this message to?
+qwe
+What is the Subject of this message?
+qwe
+Please write your message. (Press enter when done)
+qwe
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: qwwe
+2. Subject: qwe
+Which entry would you like to select?
+1
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+From: qwe
+To: qwe
+Subject: qwwe
+Body:
+
+qwe
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: qwwe
+2. Subject: qwe
+Which entry would you like to remove?
+1
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+1. Subject: qwe
+Which entry would you like to select?
+qwe
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+Invalid input please re-enter
+1. Subject: qwe
+Which entry would you like to select?
+1
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+From: qwe
+To: qwe
+Subject: qwe
+Body:
+
+qwe
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+3
+1. Subject: qwe
+Which entry would you like to remove?
+1
+DELETED!!!
+Entry choice has also been reset.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+4
+Entry has not been selected.
+Please select an entry using option 2.
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+5
+Entry has not been selected.
+Please select an entry using option 2
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+2
+No Messages!
+
+01. New Email
+02. Select an Entry
+03. Delete an Entry
+04. Append Current Entry
+05. Display Current Entry
+06. Exit
+6
+Exiting

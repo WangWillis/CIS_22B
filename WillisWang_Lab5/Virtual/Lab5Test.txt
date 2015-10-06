@@ -1,0 +1,448 @@
+Test 1
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+1
+What is the employee's name?
+Willis
+What is their pay?
+134232
+What is the value of their sales this week?
+50000
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Willis  Commissioned    -       $50000  $134232 $139232
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+2
+What is the employee's name?
+SAM
+What is their hourly pay?
+15
+How many hours do they work per week?
+35
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Willis  Commissioned    -       $50000  $134232 $139232
+SAM     Hourly          35      -       $15     $525
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+3
+What is the employee's name?
+Adam
+What is their Weekly Salary?
+50000
+Does this employee get a bonus?(Y/N)
+y
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Willis  Commissioned    -       $50000  $134232 $139232
+SAM     Hourly          35      -       $15     $525
+Adam    Salaried        -       -       $1250   $55000*
+01. New Employee
+02. Display Employees
+03. Exit
+3
+Bye!
+
+Test 2
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+321
+Invalid Choice
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+2
+What is the employee's name?
+John
+What is their hourly pay?
+99
+How many hours do they work per week?
+100
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+John    Hourly          100     -       $99     $15840
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+2
+What is the employee's name?
+Johnny
+What is their hourly pay?
+15.50
+How many hours do they work per week?
+40
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+John    Hourly          100     -       $99     $15840
+Johnny  Hourly          40      -       $15.5   $620
+01. New Employee
+02. Display Employees
+03. Exit
+123
+Invalid Input
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+3
+What is the employee's name?
+jim
+What is their Weekly Salary?
+999
+Does this employee get a bonus?(Y/N)
+n
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+John    Hourly          100     -       $99     $15840
+Johnny  Hourly          40      -       $15.5   $620
+jim     Salaried        -       -       $24.97  $999
+01. New Employee
+02. Display Employees
+03. Exit
+3
+Bye!
+
+Test 3
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+3
+What is the employee's name?
+Steven
+What is their Weekly Salary?
+3000
+Does this employee get a bonus?(Y/N)
+y
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Steven  Salaried        -       -       $75     $3300*
+* 10% Bonus
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+3
+What is the employee's name?
+Jason
+What is their Weekly Salary?
+4000
+Does this employee get a bonus?(Y/N)
+n
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Steven  Salaried        -       -       $75     $3300*
+Jason   Salaried        -       -       $100    $4000
+* 10% Bonus
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+1
+What is the employee's name?
+Andrew
+What is their pay?
+9999
+What is the value of their sales this week?
+10000
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Steven  Salaried        -       -       $75     $3300*
+Jason   Salaried        -       -       $100    $4000
+Andrew  Commissioned    -       $10000  $9999   $10999
+* 10% Bonus
+
+01. New Employee
+02. Display Employees
+03. Exit
+3
+Bye!
+
+Test 4
+
+01. New Employee
+02. Display Employees
+03. Exit
+2
+No Entries D:<!!
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+e
+Invalid Choice
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+2
+What is the employee's name?
+Pete
+What is their hourly pay?
+40
+How many hours do they work per week?
+55
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Pete    Hourly          55      -       $40     $2800
+* 10% Bonus
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+1
+What is the employee's name?
+Jen
+What is their pay?
+999
+What is the value of their sales this week?
+40000
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Pete    Hourly          55      -       $40     $2800
+Jen     Commissioned    -       $40000  $999    $4999
+* 10% Bonus
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+3
+What is the employee's name?
+Grace
+What is their Weekly Salary?
+70000
+Does this employee get a bonus?(Y/N)
+n
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Pete    Hourly          55      -       $40     $2800
+Jen     Commissioned    -       $40000  $999    $4999
+Grace   Salaried        -       -       $1750   $70000
+* 10% Bonus
+
+01. New Employee
+02. Display Employees
+03. Exit
+3
+Bye!
+
+Test 5
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+3
+What is the employee's name?
+Lucy
+What is their Weekly Salary?
+9999
+Does this employee get a bonus?(Y/N)
+n
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+3
+What is the employee's name?
+Elaine
+What is their Weekly Salary?
+8888
+Does this employee get a bonus?(Y/N)
+y
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+1
+What is the employee's name?
+Eugene
+What is their pay?
+5000
+What is the value of their sales this week?
+40000
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Lucy    Salaried        -       -       $249.97 $9999
+Elaine  Salaried        -       -       $222.2  $9776.8*
+Eugene  Commissioned    -       $40000  $5000   $9000
+* 10% Bonus
+
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+2
+What is the employee's name?
+Shag
+What is their hourly pay?
+99
+How many hours do they work per week?
+50
+01. New Employee
+02. Display Employees
+03. Exit
+1
+What Type is this Employee?
+01. Commissioned
+02. Hourly
+03. Salaried
+2
+What is the employee's name?
+Ni
+What is their hourly pay?
+100
+How many hours do they work per week?
+99
+01. New Employee
+02. Display Employees
+03. Exit
+2
+Name    Status          Hours   Sales   Wages   Pay
+
+Lucy    Salaried        -       -       $249.97 $9999
+Elaine  Salaried        -       -       $222.2  $9776.8*
+Eugene  Commissioned    -       $40000  $5000   $9000
+Shag    Hourly          50      -       $99     $5940
+Ni      Hourly          99      -       $100    $15800
+* 10% Bonus
+
+01. New Employee
+02. Display Employees
+03. Exit
+3
+Bye!

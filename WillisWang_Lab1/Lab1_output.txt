@@ -1,0 +1,829 @@
+Interation #1
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+1
+
+01. Jeff?
+02. Anna?
+1
+Please enter your schedule for the following days/times.
+(1 for busy 0 for Free)
+Mon
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 1
+
+        2-3: 1
+
+Tue
+        11-12: 1
+
+        12-1: 1
+
+        1-2: w
+
+        I do not understand your input.
+        Please re-enter for time. (1 for busy 0 for Free)
+
+        1-2: 1
+
+        2-3: 1
+
+Wed
+        11-12: 1
+
+        12-1: 10
+
+        I do not understand your input.
+        Please re-enter for time. (1 for busy 0 for Free)
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3: 0
+
+Thu
+        11-12: 1
+
+        12-1: 0
+
+        1-2: 1
+
+        2-3: 1
+
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X               X
+12-1      X               X
+1-2       X               X                               X
+2-3       X               X                               X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+1
+
+01. Jeff?
+02. Anna?
+2
+Please enter your schedule for the following days/times.
+(1 for busy 0 for Free)
+Mon
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 1
+
+        2-3: 1
+
+Tue
+        11-12: 1
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3: 0
+
+Wed
+        11-12: 1
+
+        12-1:
+0
+
+        1-2: 1
+
+        2-3: 1
+
+Thu
+        11-12: 0
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3: 1
+
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X
+1-2       X                               X
+2-3       X                               X               X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+2
+
+01. Jeff?
+02. Anna?
+1
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X               X
+12-1      X               X
+1-2       X               X                               X
+2-3       X               X                               X
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+2
+
+01. Jeff?
+02. Anna?
+2
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X
+1-2       X                               X
+2-3       X                               X               X
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+6
+
+01. Jeff?
+02. Anna?
+1
+What is the name of the file you want to write to? (Put a .txt at the end)
+hi.txt
+Write complete.
+File is in your directory.
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+4
+The times our instructors are free for group lessons:
+        Mon             Tue             Wed             Thu
+11-12
+12-1                                      X               X
+1-2
+2-3
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+7
+
+Interaction #2
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+1
+
+01. Jeff?
+02. Anna?
+2
+Please enter your schedule for the following days/times.
+(1 for busy 0 for Free)
+Mon
+        11-12: 1
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3: 1
+
+Tue
+        11-12:
+1
+
+        12-1: 1
+
+        1-2: 0
+
+        2-3: 0
+
+Wed
+        11-12: 1
+
+        12-1: w
+
+        I do not understand your input.
+        Please re-enter for time. (1 for busy 0 for Free)
+
+        12-1: e
+
+        I do not understand your input.
+        Please re-enter for time. (1 for busy 0 for Free)
+
+        12-1: 01
+
+        1-2: 0
+
+        2-3: 1
+
+Thu
+        11-12: 1
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3: 1
+
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X               X
+12-1                      X               X
+1-2
+2-3       X                               X               X
+e
+Sorry that is not a valid input.
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X               X
+12-1                      X               X
+1-2
+2-3       X                               X               X
+e
+Sorry that is not a valid input.
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X               X
+12-1                      X               X
+1-2
+2-3       X                               X               X
+n
+Restarting
+Please enter your schedule for the following days/times.
+(1 for busy 0 for Free)
+Mon
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 1
+
+        2-3: 1
+
+Tue
+        11-12: 1
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3: 0
+
+Wed
+        11-12: 0
+
+        12-1: 1
+
+        1-2: 0
+
+        2-3: 1
+
+Thu
+        11-12: 0
+
+        12-1: 10
+
+        I do not understand your input.
+        Please re-enter for time. (1 for busy 0 for Free)
+
+        12-1:
+1
+
+        1-2: 1
+
+        2-3: 1
+
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X
+12-1      X                               X               X
+1-2       X                                               X
+2-3       X                               X               X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+2
+
+01. Jeff?
+02. Anna?
+2
+
+        Mon             Tue             Wed             Thu
+11-12     X               X
+12-1      X                               X               X
+1-2       X                                               X
+2-3       X                               X               X
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+7
+
+Interaction #3
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+1
+
+01. Jeff?
+02. Anna?
+1
+Please enter your schedule for the following days/times.
+(1 for busy 0 for Free)
+Mon
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 0
+
+        2-3: 0
+
+Tue
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 0
+
+        2-3: 0
+
+Wed
+        11-12: 0
+
+        12-1: 1
+
+        1-2: 0
+
+        2-3: 1
+
+Thu
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 1
+
+        2-3: 1
+
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X                               X
+12-1      X               X               X               X
+1-2                                                       X
+2-3                                       X               X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+1
+
+01. Jeff?
+02. Anna?
+2
+Please enter your schedule for the following days/times.
+(1 for busy 0 for Free)
+Mon
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 1
+
+        2-3: 1
+
+Tue
+        11-12: 0
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3:
+0
+
+Wed
+        11-12:
+1
+
+        12-1: 1
+
+        1-2:
+1
+
+        2-3:
+1
+
+Thu
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 0
+
+        2-3: 0
+
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X                               X               X
+12-1      X                               X               X
+1-2       X                               X
+2-3       X                               X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+3
+Times at least one instructor is free:
+
+        Mon             Tue             Wed             Thu
+11-12                   Anna            Jeff
+12-1                    Anna
+1-2     Jeff            Both            Jeff            Anna
+2-3     Jeff            Both                            Anna
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+4
+The times our instructors are free for group lessons:
+        Mon             Tue             Wed             Thu
+11-12
+12-1
+1-2                       X
+2-3                       X
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+7
+
+Interaction #4
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+5
+
+01. Jeff?
+02. Anna?
+1
+Input a file name. (Put a .txt at the end)
+use 1 for busy 0 for free.
+hi.txt
+Is this the correct file? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X               X               X
+1-2                                                       X
+2-3                                                       X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+6
+
+01. Jeff?
+02. Anna?
+1
+What is the name of the file you want to write to? (Put a .txt at the end)
+yaaay.txt
+Write complete.
+File is in your directory.
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+5
+
+01. Jeff?
+02. Anna?
+2
+Input a file name. (Put a .txt at the end)
+use 1 for busy 0 for free.
+yaaay.txt
+Is this the correct file? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X               X               X
+1-2                                                       X
+2-3                                                       X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+7
+
+Interaction #5
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+1
+
+01. Jeff?
+02. Anna?
+2
+Please enter your schedule for the following days/times.
+(1 for busy 0 for Free)
+Mon
+        11-12: 1
+
+        12-1: 1
+
+        1-2: 0
+
+        2-3: 0
+
+Tue
+        11-12: 1
+
+        12-1: 0
+
+        1-2: 1
+
+        2-3: 0
+
+Wed
+        11-12: 1
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3: 01
+
+Thu
+        11-12: 0
+
+        12-1: 0
+
+        1-2: 0
+
+        2-3: 1
+
+Is this the correct Schedule? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X
+1-2                       X
+2-3                                       X               X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+5
+
+01. Jeff?
+02. Anna?
+1
+Input a file name. (Put a .txt at the end)
+use 1 for busy 0 for free.
+hello
+Sorry invalid file.
+Please re-enter
+Input a file name. (Put a .txt at the end)
+use 1 for busy 0 for free.
+hi.txt
+Is this the correct file? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X               X               X
+1-2                                                       X
+2-3                                                       X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+3
+Times at least one instructor is free:
+
+        Mon             Tue             Wed             Thu
+11-12                                                   Both
+12-1                    Anna            Anna            Both
+1-2     Both            Jeff            Both            Anna
+2-3     Both            Both            Jeff
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+4
+The times our instructors are free for group lessons:
+        Mon             Tue             Wed             Thu
+11-12                                                     X
+12-1                                                      X
+1-2       X                               X
+2-3       X               X
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+6
+
+01. Jeff?
+02. Anna?
+1
+What is the name of the file you want to write to? (Put a .txt at the end)
+what.txt
+Write complete.
+File is in your directory.
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+5
+
+01. Jeff?
+02. Anna?
+2
+Input a file name. (Put a .txt at the end)
+use 1 for busy 0 for free.
+what.txt
+Is this the correct file? (Y/N)
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X               X               X
+1-2                                                       X
+2-3                                                       X
+y
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+2
+
+01. Jeff?
+02. Anna?
+1
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X               X               X
+1-2                                                       X
+2-3                                                       X
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+2
+
+01. Jeff?
+02. Anna?
+2
+
+        Mon             Tue             Wed             Thu
+11-12     X               X               X
+12-1      X               X               X
+1-2                                                       X
+2-3                                                       X
+
+01. Edit Schedules
+02. Display Schedules
+03. Display times for Individual lessons
+04. Display times for group lessons
+05. Input schedules from a file
+06. Save schedules to a file
+07. Quit
+7
